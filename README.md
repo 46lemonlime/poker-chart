@@ -1,6 +1,6 @@
 ### Poker Chart
 
-The target of this app is to help poker players in the pre-flop state.
+The poker player will introduce his ranges and will have quick access to have a visual representation of them at any given point.
 
 ---
 
